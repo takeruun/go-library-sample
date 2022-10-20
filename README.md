@@ -8,8 +8,6 @@ go get github.com/takeruun/go-library-sample
 package main
 
 import (
-	"fmt"
-
 	sample "github.com/takeruun/go-library-sample"
 )
 
